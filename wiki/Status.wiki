@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#summary yeti3d port status .
 
 = Bennugd port status =
 
-* bennu textures 0%
-* bennu 3d models 100%
-* bennu 3d sprites 0%
-* bennu 3d levels 20%
+ * bennu textures     0%
+ * bennu 3d models  100%
+ * bennu 3d sprites   0%
+ * bennu 3d levels   20%
