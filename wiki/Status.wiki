@@ -2,8 +2,8 @@
 
 = Bennugd port status =
 
- * bennu textures     50% (palette not match - help)
- * bennu 3d models   100%
- * bennu 3d sprites   50% (palette not match - help)
+ * bennu 3d models   100% 
  * bennu 3d levels   100%
- * bennu yeti core    90% (only Collision system 10%)
+ * bennu yeti core   100% 
+ * bennu textures     50% (palette not match - help)
+ * bennu 3d sprites   50% (palette not match - help)
